@@ -6,6 +6,11 @@ Tourism is one of the most important sources of economic activities in cities an
 
 # Observations
 ---
+The average sentiment expressed at a tourism destination is indicated by the size of the circle at the spot.
+
+<img src="https://github.com/anerip98/comparative-study-of-sentiment-expressed-at-tourist-spots-in-dubai-and-pune/blob/main/images/Dubai_Tourist.jpeg" width=400>
+
+<img src="https://github.com/anerip98/comparative-study-of-sentiment-expressed-at-tourist-spots-in-dubai-and-pune/blob/main/images/Pune_Tourist.jpeg" width=400>
 
 We observe a common pattern in the trends of tweeting frequency in both cities.
 
