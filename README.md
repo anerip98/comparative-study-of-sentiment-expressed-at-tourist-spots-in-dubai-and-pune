@@ -6,7 +6,7 @@ Tourism is one of the most important sources of economic activities in cities an
 
 The tourist destinations selected for Dubai are Burj Khalifa (25.1972° N, 55.2744°E), Burj Al Arab (25.1412° N, 55.1852° E), Dubai Marina (25.0805° N, 55.1403° E), Palm Jumeirah (25.1124° N, 55.1390° E), Dubai Museum (25.2635° N, 55.2972° E), and Dubai World Trade Center (25.2233° N, 55.2869° E). Selected hotspots for Pune are Dagdusheth Ganpati Temple (18.5164°N, 73.8561°E), Sinhagad Fort (18.3663°N, 73.7559°E), Shaniwar Wada Fort (18.5195°N, 73.8553°E), Aga Khan Palace (18.5525°N, 73.9015°E), and Khadakwasla Dam (18.4423°N, 73.7671°E)
 
-# Observations
+## Observations
 ---
 The average sentiment expressed at a tourism destination is indicated by the size of the circle at the spot. Larger the circle, more positive is the sentiment expressed.
 
@@ -36,3 +36,7 @@ We also perform a correlation analysis between the features for tourist location
 
 <img src="https://github.com/anerip98/comparative-study-of-sentiment-expressed-at-tourist-spots-in-dubai-and-pune/blob/main/images/dubai_corr.jpg" width=400>
 
+## Contributors 
+[Aneri Patel](https://github.com/anerip98)
+
+[Kunal Kulkarni](https://github.com/kunal25k)
