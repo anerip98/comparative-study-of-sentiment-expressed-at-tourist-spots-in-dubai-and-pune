@@ -26,11 +26,11 @@ We also observe unique trends in the average sentiment of expression in both cit
 
 We also perform a correlation analysis between the features for tourist locations and both the cities separately to benchmark our conclusions mentioned in the report.
 
-<img src="https://github.com/anerip98/comparative-study-of-sentiment-expressed-at-tourist-spots-in-dubai-and-pune/blob/main/images/pune_tourist_weather_corr.jpg" width=600>
+<img src="https://github.com/anerip98/comparative-study-of-sentiment-expressed-at-tourist-spots-in-dubai-and-pune/blob/main/images/pune_tourist_weather_corr.jpg" width=400>
 
-<img src="https://github.com/anerip98/comparative-study-of-sentiment-expressed-at-tourist-spots-in-dubai-and-pune/blob/main/images/dubai_tourist_weather_corr.jpg" width=600>
+<img src="https://github.com/anerip98/comparative-study-of-sentiment-expressed-at-tourist-spots-in-dubai-and-pune/blob/main/images/dubai_tourist_weather_corr.jpg" width=400>
 
-<img src="https://github.com/anerip98/comparative-study-of-sentiment-expressed-at-tourist-spots-in-dubai-and-pune/blob/main/images/pune_corr.jpg" width=600>
+<img src="https://github.com/anerip98/comparative-study-of-sentiment-expressed-at-tourist-spots-in-dubai-and-pune/blob/main/images/pune_corr.jpg" width=400>
 
-<img src="https://github.com/anerip98/comparative-study-of-sentiment-expressed-at-tourist-spots-in-dubai-and-pune/blob/main/images/dubai_corr.jpg" width=600>
+<img src="https://github.com/anerip98/comparative-study-of-sentiment-expressed-at-tourist-spots-in-dubai-and-pune/blob/main/images/dubai_corr.jpg" width=400>
 
