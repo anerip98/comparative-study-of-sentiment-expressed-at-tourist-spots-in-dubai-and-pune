@@ -13,7 +13,7 @@ We observe a common pattern in the trends of tweeting frequency in both cities.
 
 <img src="https://github.com/anerip98/comparative-study-of-sentiment-expressed-at-tourist-spots-in-dubai-and-pune/blob/main/images/pune_hourly_frequency.jpg" width=600>
 
-We also observe unique trends in the average sentiment of expression in both cities. 
+We also observe unique trends in the average sentiment of expression in both cities. Tweets at night express more positive sentiment than throughout the rest of the day in both cities. These results are in agreement with previous results.
 
 <img src="https://github.com/anerip98/comparative-study-of-sentiment-expressed-at-tourist-spots-in-dubai-and-pune/blob/main/images/dubai_hourly_polarity.jpg" width=600>
 
